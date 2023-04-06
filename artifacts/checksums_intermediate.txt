@@ -1,0 +1,1 @@
+df2bbe82a68901364b62fae430a2869d42ba7f9649f824913cefc893dbdde998  ./target/wasm32-unknown-unknown/release/fund_community_pool.wasm
